@@ -1,1 +1,3 @@
-asdasdasdsa asd asdasd asdasd asd 1111111111111111111111
+function(){
+    console.log(1);
+}
